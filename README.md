@@ -1,6 +1,7 @@
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&width=1000&height=300&section=header&text=DANNSGO&fontSize=90)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&width=1000&height=300&desc=PARK%20GA%20DAN&descAlignY=65&section=header&text=DANNSGO&fontSize=90)
+  
   <br>
   
   <h2 align="left">Tech Stack</h2>
