@@ -22,5 +22,7 @@
   <br>
   
   <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=dannsgo@gmail.com" target="_blank"><img src="https://img.shields.io/badge/dannsgo@gmail.com-red?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+  <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=dannsgo@naver.com" target="_blank"><img src="https://img.shields.io/badge/dannsgo@naver.com-mediumseagreen?style=for-the-badge&logo=naver&logoColor=white"/></a>
+  
 
 </div>
