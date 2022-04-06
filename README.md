@@ -13,9 +13,15 @@
   <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=dannsgo@gmail.com" target="_blank"><img src="https://img.shields.io/badge/dannsgo@gmail.com-red?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
   <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=dannsgo@naver.com" target="_blank"><img src="https://img.shields.io/badge/dannsgo@naver.com-mediumseagreen?style=for-the-badge&logo=naver&logoColor=white"/></a>
   
-  <br/><br/><br/><br/>
+  <br/><br/>
   
 </div>
+
+
+## Blog
+<a href="https://dannsgo.github.io" target="_blank"><img src="https://user-images.githubusercontent.com/90893596/161911229-cc07cf44-f864-4186-8428-e3b195c48bc3.png"></a>
+<br/><br/><br/><br/>
+
 
 ## Languages and Tools
 
@@ -31,6 +37,7 @@
     <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="75" />  
     <br/><br/><br/><br/>
 </div>  
+
 
 ## Github Stats  
 <table><tr><td align="top" width="50%">
