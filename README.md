@@ -19,7 +19,7 @@
 
 
 ## Blog
-<a href="https://dannsgo.github.io" target="_blank"><img src="https://user-images.githubusercontent.com/90893596/161911229-cc07cf44-f864-4186-8428-e3b195c48bc3.png"></a>
+<a href="https://dannsgo.github.io" target="_blank"><img src="https://user-images.githubusercontent.com/90893596/161911851-c7097cc7-a745-4cec-9fb6-39c5e3428b47.png"></a>
 <br/><br/><br/><br/>
 
 
