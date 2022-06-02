@@ -26,9 +26,9 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dannsgo&theme=graywhite&hide_border=true&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
 
-  </td><td align="top" width="50%">
+</td><td align="top" width="50%">
 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dannsgo&hide_border=true&layout=compact" align="right" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dannsgo&hide_border=true&layout=compact" align="right" style="width: 100%" />
 
 </td></tr></table>  
 
