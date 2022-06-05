@@ -22,15 +22,14 @@
 
 
 ## Github Stats  
-<table align="center"><tr><td align="top" width="50%">
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dannsgo&theme=graywhite&hide_border=true&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
-
-</td><td align="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dannsgo&exclude_repo=blog,boramjul,chirobones&hide_border=true&layout=compact" align="right" style="width: 100%" />
-
-</td></tr></table>  
-
-<br/>  
-
+<table align="center" >
+	<tr>
+		<td align="center" width="50%" >
+			<img src="http://github-readme-streak-stats.herokuapp.com?user=dannsgo&theme=graywhite&hide_border=true&date_format=%5BY.%5Dn.j"/>
+		</td>
+		<td align="center" width="50%">
+			<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dannsgo&exclude_repo=blog,boramjul,chirobones&hide_border=true&layout=compact" align="right" style="width: 100%" />
+        </td>
+	</tr>
+</table>
