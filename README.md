@@ -1,7 +1,7 @@
 <div>
   
   <br/><br/>
-  <a href="https://portfolio.dannsgo.com" target="_blank"><img src="https://github.com/dannsgo/dannsgo/blob/main/readme-img.webp"/></a>
+  <img src="https://github.com/dannsgo/dannsgo/blob/main/readme-img.webp"/>
   <br/><br/><br/>
   
 </div>  
